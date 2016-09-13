@@ -13,7 +13,7 @@ class ViewController3: UIViewController, UITableViewDelegate, UITableViewDataSou
 
     var values: NSArray = []
     var id = String()
-    var url = "https://mobilizer.x10.mx/get.php?id="
+    var url = "http://mobilizer.x10.mx/get.php?id="
     var timer: NSTimer!
     
     @IBOutlet weak var inputContainerView: UIView!
@@ -83,7 +83,7 @@ class ViewController3: UIViewController, UITableViewDelegate, UITableViewDataSou
     }
     
     func send(){
-        let request = NSMutableURLRequest(URL: NSURL(string: "https://mobilizer.x10.mx/send.php")!)
+        let request = NSMutableURLRequest(URL: NSURL(string: "http://mobilizer.x10.mx/send.php")!)
         request.HTTPMethod = "POST"
         let postString = "id=\(id)&txt=\(growingTextView.text!)"
         request.HTTPBody = postString.dataUsingEncoding(NSUTF8StringEncoding)
