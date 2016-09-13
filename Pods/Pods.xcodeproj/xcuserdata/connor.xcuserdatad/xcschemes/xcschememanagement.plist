@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>NextGrowingTextView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-mobilizer.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-mobilizerTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-mobilizerUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0398D374DA4B00464460F1993A9DAEDD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>30EA1443A31A919BCA8BA3AE19E6CBE6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6365D1196FB71360F1D9604997F2CED7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DEA361A33B75C41724BB593AD6E9CBE5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

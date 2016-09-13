@@ -1,0 +1,9 @@
+READ ME
+
+Color scheme has been updated
+Not completely though. Would like to change the link color and possibly
+change the font and size. its looking good and working
+
+To do:
+Add a back button that takes you back to the second view
+Maybe work on UI a little bit
